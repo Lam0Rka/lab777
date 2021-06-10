@@ -118,3 +118,4 @@ $ tools/polly/bin/polly.py --test
 $ tools/polly/bin/polly.py --install
 $ tools/polly/bin/polly.py --toolchain clang-cxx14
 ```
+Добавление значков
