@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/Lam0Rka/lab777.svg?branch=main)](https://travis-ci.com/Lam0Rka/lab777)
 Здесь уже как традиция
 ```sh
 $ export GITHUB_USERNAME=Lam0Rka
